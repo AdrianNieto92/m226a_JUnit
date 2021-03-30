@@ -1,4 +1,4 @@
-# modul-226a-Junit
+# modul-226a-JUnit
 Hausaufgabe Snake Class + JUnit
 
 
