@@ -1,13 +1,10 @@
-# modul-226a-JUnit
+# m226a_JUnit
 <h2> Hausaufgabe Snake Class + JUnit </h2>
 
 
-  <h3>Repository beinhaltet:</h3>
+  <h3>Beschreibung: </h3>
 
-  <ul>
-    <li>src code</li>
-    <li>JavaDoc</li>
-  </ul>
+  <p>JUnit (Java Unit) ist ein verbreitetes Framework, das sich zum Standardwerkzeug für automatisierte Unit-Tests von Klassen und Methoden in Java-Programmen etabliert hat</p>
 
 <h3>Vorbereitung:</h3>
 
