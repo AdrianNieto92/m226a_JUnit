@@ -15,7 +15,7 @@ JUnit (Java Unit) ist ein verbreitetes Framework, das sich zum Standardwerkzeug 
     - Andernfalls geben die move-Funktionen false zurück, die Position bleibt unverändert
    
 
-Aufgabenstellung:
+## Aufgabenstellung:
 
 - JUnit Testklasse zum testen der Snake Klasse erstellen:
   - Übergabeparameter im Konstruktor testenP
