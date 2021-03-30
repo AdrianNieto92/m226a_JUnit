@@ -3,7 +3,8 @@
 
 JUnit (Java Unit) ist ein verbreitetes Framework, das sich zum Standardwerkzeug für automatisierte Unit-Tests von Klassen und Methoden in Java-Programmen etabliert hat
   
-  ![junit_snippet](https://user-images.githubusercontent.com/80152023/113002663-4da6ac00-9172-11eb-9dff-3bb839d16466.png)
+ ![junit-snippet2](https://user-images.githubusercontent.com/80152023/113004308-ceb27300-9173-11eb-8edc-26ea0df986c0.png)
+
   
 # Snake Class + JUnit
 
