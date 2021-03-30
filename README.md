@@ -2,7 +2,7 @@
 Hausaufgabe Snake Class + JUnit
 
 
-Repository beinhaltet:
+<h1> Repository beinhaltet: <h1>
 
 - src code
 - JavaDoc
